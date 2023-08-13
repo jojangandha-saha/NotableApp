@@ -1,6 +1,11 @@
 # Notable Note Taking App
 The Notable Note Taking App is a simple web application built using pure HTML, CSS, and JavaScript. It allows users to create, read, update, and delete notes. All data is stored locally in the browser's localStorage.
 
+# YOU CAN SEE THE WORKING SITE HERE :
+ https://jos7730.github.io/NotableApp/
+
+ <br>
+
 ![image](https://github.com/jos7730/NotableApp/assets/86916920/a3342af0-2efb-428e-b850-d7f3fe55b942)
 
 
